@@ -2,10 +2,12 @@
 scrap happyfresh product name and price
 
 To scrap from Happyfresh website with target as :
-- product name
-- product price
-- product pack quantity
-- product price per quantity
+- product Category
+- Product Name
+- product packaging
+- product price per pack
+- product unit
+- product price per unit
 
 #Required : Selenium & Chrome webdriver
 
