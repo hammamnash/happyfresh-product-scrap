@@ -1,3 +1,5 @@
+## Happyfresh Product Scrapper
+
 A python notebook to scrap or get data from happyfresh website
 Attribute can be scrapped as :
 - product Category
@@ -27,8 +29,6 @@ Attribute can be scrapped as :
 - open notebook using your favourite text editor or IDE.
 - fill your target outlet's url in list `target`
 - fill your target outlet category code in list `category`
-
-
 
 This code need lot of improvement tho😅🙏
 
